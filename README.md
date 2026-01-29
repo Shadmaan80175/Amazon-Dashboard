@@ -1,4 +1,4 @@
-## Amazon Sales Analytics Dashboard (Power BI)
+### Amazon Sales Analytics Dashboard (Power BI)
 
 An interactive **Power BI dashboard** designed to analyze Amazon sales data and uncover actionable business insights.  
 This project focuses on **sales performance, regional trends, product analysis, and order status tracking** to support data-driven decision-making in e-commerce.
